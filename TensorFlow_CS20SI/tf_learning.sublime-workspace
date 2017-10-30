@@ -1,0 +1,593 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Y",
+				"Y_predicted"
+			],
+			[
+				"f",
+				"float32"
+			],
+			[
+				"ze",
+				"zeros_l"
+			],
+			[
+				"zro",
+				"zeros"
+			],
+			[
+				"zr",
+				"zeros"
+			],
+			[
+				"U",
+				"U_reduce"
+			],
+			[
+				"cen",
+				"centroids"
+			],
+			[
+				"vo",
+				"vocabList"
+			],
+			[
+				"lam",
+				"lambda_vec"
+			],
+			[
+				"X",
+				"X_poly"
+			],
+			[
+				"Si",
+				"Sigma2"
+			],
+			[
+				"De",
+				"Delta1"
+			],
+			[
+				"T",
+				"Theta1"
+			],
+			[
+				"si",
+				"Sigma3"
+			],
+			[
+				"y",
+				"y_recode"
+			],
+			[
+				"ma",
+				"maxn"
+			],
+			[
+				"else",
+				"elseif\telseif"
+			],
+			[
+				"The",
+				"Theta2"
+			],
+			[
+				"all",
+				"all_theta"
+			],
+			[
+				"l",
+				"lambda"
+			],
+			[
+				"gue",
+				"guess_norm"
+			],
+			[
+				"gus",
+				"guess_norm"
+			],
+			[
+				"guss",
+				"guess"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"yla",
+				"ylabel"
+			],
+			[
+				"xla",
+				"xlabel"
+			],
+			[
+				"book",
+				"bookRouter"
+			],
+			[
+				"boo",
+				"bookRouter"
+			],
+			[
+				"hr",
+				"href\tAttr"
+			],
+			[
+				"p",
+				"pipe"
+			],
+			[
+				"js",
+				"jshint"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"fu",
+				"fuction"
+			],
+			[
+				"st",
+				"stderr"
+			],
+			[
+				"std",
+				"sdterr"
+			],
+			[
+				"coin",
+				"container"
+			],
+			[
+				"cols",
+				"col-sm-12"
+			],
+			[
+				"col-sm-o",
+				"col-sm-offset-2"
+			],
+			[
+				"col",
+				"col-sm-8"
+			],
+			[
+				"fa-",
+				"fa-comment"
+			],
+			[
+				"col-",
+				"col-sm-12"
+			],
+			[
+				"colsm",
+				"col-sm-6"
+			],
+			[
+				"post",
+				"post-grid"
+			],
+			[
+				"pos",
+				"post-grid"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"map",
+				"mapCtrl"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"Blog",
+				"BlogController"
+			],
+			[
+				"bac",
+				"background-image"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 217.0,
+		"last_filter": ":w",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"Package Control: dele",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				":e",
+				":e - Revert"
+			],
+			[
+				"theme",
+				"BracketHighlighter: Select Tag Name (closing and opening)"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:i",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			],
+			[
+				":pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				":inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				":tabe",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"exit",
+				"Set Syntax: Textile"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				":ope",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				":op",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				":open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				":o",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				":vi",
+				"File: New View into File"
+			]
+		],
+		"width": 430.0
+	},
+	"console":
+	{
+		"height": 590.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/macbook/GitHub/tf_CS20SI",
+		"/Users/macbook/GitHub/tf_CS20SI/slide_note"
+	],
+	"file_history":
+	[
+		"/Users/macbook/GitHub/tf_CS20SI/slide_note/03_logistic_regression_mnist_starter.py",
+		"/Users/macbook/GitHub/tf_CS20SI/slide_note/2_1_Operator.py",
+		"/Users/macbook/GitHub/tf_CS20SI/slide_note/03_linear_regression_starter.py",
+		"/Users/macbook/GitHub/tf_CS20SI/slide_note/1_graph.py",
+		"/Users/macbook/GitHub/tf_CS20SI/tfboard.py",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex7/ex7/ex7.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex7/ex7/kMeansInitCentroids.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex7/ex7/runkMeans.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex7/ex7/findClosestCentroids.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex7/ex7/computeCentroids.m",
+		"/Users/macbook/GitHub/ML_Coursera/3-DeepLearning-AndrewNg/W4/1A.Building+your+Deep+Neural+Network+-+Step+by+Step+v5.py",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex4/ex4/randInitializeWeights.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex4/ex4/nnCostFunction.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex6/ex6/emailFeatures.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex6/ex6/svmPredict.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex6/ex6/dataset3Params.m",
+		"/Users/macbook/GitHub/ML_Coursera/3-DeepLearning-AndrewNg/Logistic+Regression+with+a+Neural+Network+mindset+v4.py",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex6/ex6/processEmail.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex6/ex6/ex6.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex6/ex6/svmTrain.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex6/ex6/gaussianKernel.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex5/ex5/ex5.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex5/ex5/trainLinearReg.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex5/ex5/validationCurve.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex5/ex5/learningCurve.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex5/ex5/polyFeatures.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex4/ex4/ex4.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex5/ex5/linearRegCostFunction.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex4/ex4/sigmoidGradient.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex3/ex3/lrCostFunction.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex3/ex3/ex3_nn.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex3/ex3/oneVsAll.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex3/ex3/displayData.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex3/ex3/predict.m",
+		"/Users/macbook/GitHub/ML_Coursera/test/ex1_redo.m",
+		"/Users/macbook/GitHub/ML_Coursera/test/ex3.m",
+		"/Users/macbook/GitHub/ML_Coursera/test/ex2.m",
+		"/Users/macbook/GitHub/ML_Coursera/test/ex1.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex3/ex3/predictOneVsAll.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex3/ex3/ex3.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex2/ex2/costFunctionReg.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex2/ex2/ex2_reg.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex2/ex2/sigmoid.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex2/ex2/costFunction.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex2/ex2/ex2.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex2/ex2/predict.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex2/ex2/plotData.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex1/ex1/computeCostMulti.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex1/ex1/ex1.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex1/ex1/gradientDescent.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex1/ex1/plotData.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex1/ex1/featureNormalize.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex1/ex1/ex1_multi.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex1/ex1/normalEqn.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex1/ex1/gradientDescentMulti.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex1/ex1/submit.m",
+		"/Users/macbook/GitHub/ML_Coursera/assignment/machine-learning-ex1/ex1/computeCost.m",
+		"/Users/macbook/GitHub/AirQuality/airquality.sublime-",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/takenote.txt",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mod-2/src/routes/bookRoutes.js",
+		"/Users/macbook/GitHub/nodejs_dir/plural/node-5/1-client.js",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mod-2/gulpfile.js",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mod-2/src/view/bookListView.ejs",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mod-2/src/view/bookView.ejs",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mod-2/src/view/books.ejs",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mod-2/src/view/index.html.old",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mod-2/.bowerrc",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mod-2/src/view/index.ejs",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mod-2/src/view/test",
+		"/Users/macbook/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/macbook/Library/Application Support/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mod-2/src/view/index.temp.ejs",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mod-2/src/view/index.jade",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mod-2/bower.json",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mod-2/src/view/index.html",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mod-2/public/lib/bootstrap/bower.json",
+		"/Users/macbook/GitHub/nodejs_dir/plural/node-5/js/main.js",
+		"/Users/macbook/GitHub/nodejs_dir/plural/node-3/1-event.js",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/pVkM36Biz1.zip",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mod-2/package.json",
+		"/Users/macbook/GitHub/nodejs_dir/node_express/mongo.js",
+		"/Users/macbook/GitHub/nodejs_dir/plural/node-7/4-cluster.js",
+		"/Users/macbook/GitHub/nodejs_dir/plural/node-7/3-child-fork.js",
+		"/Users/macbook/GitHub/nodejs_dir/plural/node-7/2-child-spawn.js",
+		"/Users/macbook/GitHub/nodejs_dir/plural/node-7/note.txt",
+		"/Users/macbook/GitHub/nodejs_dir/plural/node-7/1-child-exec.js",
+		"/Users/macbook/GitHub/nodejs_dir/plural/node-7/honorstudent.js",
+		"/Users/macbook/GitHub/nodejs_dir/plural/node-6/mathfun.js",
+		"/Users/macbook/GitHub/nodejs_dir/ex_8/program.js",
+		"/Users/macbook/GitHub/node-study/angular-js-google-map/index.html",
+		"/Users/macbook/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/macbook/GitHub/node-study/angularjs-google-maps-directive/index.html",
+		"/Users/macbook/GitHub/node-study/blog/front/map.html",
+		"/Users/macbook/GitHub/node-study/angularjs-google-maps-directive/js/index.js",
+		"/Users/macbook/GitHub/node-study/map/index.htm",
+		"/Users/macbook/GitHub/node-study/map/map.js",
+		"/Users/macbook/GitHub/node-study/todo/index.html",
+		"/Users/macbook/GitHub/node-study/todo/js/services/todoStorage.js",
+		"/Users/macbook/GitHub/node-study/todo/js/controllers/todoCtrl.js",
+		"/Users/macbook/GitHub/node-study/todo/js/app.js",
+		"/Users/macbook/GitHub/node-study/angular/test.htm",
+		"/Users/macbook/workspace_v7/QuickReCall/Debug/Main_task.d",
+		"/Users/macbook/workspace_v6_2/1_MSP_Profile/Debug/blink.d",
+		"/Users/macbook/Documents\\Sheet1.tex",
+		"/Users/macbook/Documents\\Sheet3.tex",
+		"/Users/macbook/Documents\\Sheet2.tex",
+		"/Users/macbook/GitHub/viabike-web/pricing.html",
+		"/Users/macbook/Downloads/luna/template-home.php",
+		"/Users/macbook/GitHub/viabike-web/index.html",
+		"/Users/macbook/GitHub/AppUI 2.6 by pixelcave/02 - AppUI Frontend Template/01 - Get Started Version/css/plugins.css",
+		"/Users/macbook/GitHub/AppUI 2.6 by pixelcave/02 - AppUI Frontend Template/01 - Get Started Version/css/themes.css",
+		"/Users/macbook/GitHub/AppUI 2.6 by pixelcave/02 - AppUI Frontend Template/01 - Get Started Version/css/main.css",
+		"/Users/macbook/GitHub/AppUI 2.6 by pixelcave/02 - AppUI Frontend Template/03 - HTML Version/index.html",
+		"/Users/macbook/GitHub/AppUI 2.6 by pixelcave/02 - AppUI Frontend Template/01 - Get Started Version/pricing.html",
+		"/Users/macbook/GitHub/AppUI 2.6 by pixelcave/02 - AppUI Frontend Template/01 - Get Started Version/index.html",
+		"/Users/macbook/GitHub/AppUI 2.6 by pixelcave/02 - AppUI Frontend Template/03 - HTML Version/css/main.css",
+		"/Users/macbook/GitHub/AppUI 2.6 by pixelcave/02 - AppUI Frontend Template/03 - HTML Version/blog.html",
+		"/Users/macbook/GitHub/AppUI 2.6 by pixelcave/02 - AppUI Frontend Template/03 - HTML Version/jobs.html",
+		"/Users/macbook/Library/Application Support/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 106.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 199.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tf_learning.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/GitHub/AirQuality/airquality.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
